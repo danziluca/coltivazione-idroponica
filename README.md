@@ -1,8 +1,6 @@
 # Orto idroponico
 > Sistema di controllo per coltivazione idroponica che consente circolazione dell'acqua e parziale correzione dei valori di PH e conducibilità della stessa.
 
-*Read this in other languages: [English :uk: :us:](README.EN.md).*
-
 # Sommario
 - [Componenti](#componenti)
 - [Schema di Montaggio](#schema-di-montaggio)
